@@ -1,0 +1,12 @@
+Lampa elektronowa – element elektroniczny czynny składający się z elektrod umieszczonych w bańce z wypompowanym powietrzem (lampa próżniowa) lub gazem pod niewielkim ciśnieniem (lampa gazowana), w którym wykorzystuje się wiązki elektronów lub jonów poruszające się między elektrodami lampy i sterowane elektrycznie elektrodami.
+
+Podział lamp elektronowych
+Podstawowym kryterium klasyfikacyjnym lamp elektronowych jest ciśnienie gazu w bańce – dzielą się na[13] próżniowe oraz gazowane.
+Stosuje się również podział ze względu na przeznaczenie, na przykład: prostownicze, detekcyjne, wzmacniające, generacyjne, mieszające, fotoelektryczne, obrazowe, pamięciowe itp.
+Ze względu na zakres częstotliwości można wyróżnić lampy małej częstotliwości (zakres częstotliwości akustycznych), wielkiej częstotliwości (zakres częstotliwości radiowych) i mikrofalowe (powyżej 300 MHz).
+Spotyka się też podział na lampy małej i dużej mocy. Te pierwsze nazywa się zwykle odbiorczymi[b], a drugie nadawczymi. Linia podziału przebiegała zwykle około dopuszczalnej mocy wydzielanej na anodzie równej 25 W[13].
+Często używany jest podział ze względu na liczbę elektrod: dioda (2 elektrody), trioda (3 elektrody), tetroda (4 elektrody), pentoda (5 elektrod), heksoda (6 elektrod), heptoda (7 elektrod) itd.
+Ze względu na rodzaj katody można lampy podzielić na: lampy z zimną katodą, z fotokatodą, z katodą żarzoną pośrednio (odizolowany grzejnik umieszczony w rurce katody) i katodą żarzoną bezpośrednio (katoda w postaci żarzonego drucika). W zależności od parametrów żarzenia lampy były produkowane w „seriach” umożliwiających stosowanie jednego wspólnego źródła zasilania żarzenia dla wielu lamp.
+W praktycznych zastosowaniach ważny jest również typ cokołu lampy.
+Spotyka się wiele dodatkowych określeń lamp charakteryzujących ich cechy użytkowe (np. impulsowe – do pracy impulsowej, elektrometryczne – z małymi prądami upływu siatki sterującej), stopień miniaturyzacji, sposób zasilania, rodzaj obudowy, metodę chłodzenia itp.
+Konkretna lampa może być określana za pomocą różnych kombinacji, na przykład: gazowana tetroda impulsowa, pośrednio żarzona trioda wielkiej częstotliwości itp.

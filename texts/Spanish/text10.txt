@@ -1,0 +1,19 @@
+La válvula termoiónica, también llamada válvula electrónica, válvula de vacío, tubo de vacío o bulbo, es un componente electrónico utilizado para amplificar, conmutar, o modificar una señal eléctrica mediante el control del movimiento de los electrones en un espacio vacío a muy baja presión, o en presencia de gases especialmente seleccionados.
+
+La válvula originaria fue el componente crítico que posibilitó el desarrollo de la electrónica durante la primera mitad del siglo XX, incluyendo la expansión y comercialización de la radiodifusión, televisión, radar, audio, redes telefónicas, computadoras analógicas y digitales, control industrial, etc. Algunas de estas aplicaciones son anteriores a la válvula, pero experimentaron un crecimiento explosivo gracias a ella.
+
+A lo largo de su historia, fueron introducidos muchos tipos de válvulas, pero los principios de funcionamiento básicos son:
+
+Efecto Edison. La gran mayoría de las válvulas electrónicas están basadas en la propiedad que tienen los metales en caliente de liberar electrones desde su superficie.
+Gases ionizados. En otros casos, se utilizan las características de la conducción electrónica en gases ionizados, esto resulta principalmente importante en los reguladores de tensión, rectificadores de vapor de mercurio, válvula de conmutación T/R, etc.
+Efecto fotoeléctrico En otros casos, el principio de funcionamiento se basa en la emisión de electrones por el efecto fotoeléctrico.
+El ocaso de esta tecnología comenzó con la invención del transistor y el posterior desarrollo de componentes de estado sólido que eran mucho más pequeños, baratos y fiables que la válvula. Sin embargo hoy en día aún sobrevive en ciertas aplicaciones específicas, donde por razones técnicas resultan más conveniente. Por ejemplo en transmisores de radiofrecuencia de alta potencia y sistemas de radar se utilizan magnetrones, válvulas de onda progresiva TWT, tiratrones, etc. En televisión y sistemas de imagen medicinal aún se utilizan tubos de rayos catódicos o tubos de captura de imagen, y en el hogar es la base de funcionamiento del horno microondas. También siguen siendo ampliamente utilizadas en preamplificadores de micrófonos, guitarras y bajos, así como en equipos de sonido de alta fidelidad.
+
+Historia
+
+Diodo de vacío producido por Philips.
+Aunque el efecto de emisión termoiónica fue originalmente informado por Frederick Guthrie en 1873,[2]​ es la investigación de Thomas Alva Edison el trabajo más a menudo mencionado. Edison, al ver que con el uso el cristal de las lámparas incandescentes se iba oscureciendo, buscó la forma de aminorar dicho efecto, realizando para ello diversos experimentos. Uno de ellos fue introducir en la ampolla de la lámpara un electrodo en forma de placa, que se polarizaba eléctricamente con el fin de atraer las partículas que, al parecer, se desprendían del filamento. A pesar de que Edison no comprendía a nivel físico el funcionamiento, y desconocía el potencial de su «descubrimiento», en 1884 lo patentó bajo el nombre de "Efecto Edison".[3]​
+
+
+Triodo de 1906.
+Al agregar un electrodo plano (placa), cuando el filamento se calienta se produce una agitación de los átomos del material que lo recubre, y los electrones de las órbitas de valencia son acelerados, alcanzando velocidades de escape, con lo que se forma una nube de electrones por encima del mismo. La nube termoiónica, fuertemente atraída por la placa, debido al potencial positivo aplicado en la misma, da lugar a la circulación de una corriente electrónica a través de la válvula entre el filamento y el ánodo. A este fenómeno se le denomina Efecto Edison-Richardson o termoiónico.

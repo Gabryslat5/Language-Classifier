@@ -1,0 +1,33 @@
+Med et radiorør (vakuumrør, elektronrør, eller også bare rør) menes en elektronisk komponent med minst to hovedtilkoplinger. Disse kalles alltid katode og anode. Radiorøret kan lede elektrisk strøm fra anoden til katoden (se strømretning). Bortsett fra i noen eksotiske utgaver varmes katoden opp slik at den avgir elektroner som virker som ladningsbærere for strømledningen. Elektrodene befinner seg i et vakuum slik at luftmolekyler ikke forstyrrer ledningsprosessen og katoden ikke bombarderes med molekyler eller ioner. Kolben er oftest laget av glass som er rørformet, derav navnet rør. Katoden varmes alltid opp ved hjelp av en elektrisk strøm gjennom en metalltråd, kalt glødetråden eller filamentet. Tråden selv kan danne katoden ("direkte glødning", energisparende, for batteridrift), eller glødetråden omgis av en elektrisk isolert metallsylinder som mottar varmeenergien ("indirekte gløding", som er mer robust og tilbyr en katodetilkopling som er elektrisk uavhengig av glødesystemet).
+
+
+Skjematisk tegning av en diode
+
+Skjematisk tegning av en triode
+
+Radiorør: ECC85, EL84 og EABC80
+
+En 2Ж27Л-Pentode, til venstre innmaten uten den nødvendige glasskolben
+
+6L6GC-Rør: til venstre General Electric ca. 1960, til høyre Svetlana Electron Devices, Russland ca. 2000
+
+Telefunken Triode RE144 fra 20- 30-tallet
+
+Skisse av en indirekte glødet triode
+
+Getter-ring og belegg i et rør
+
+Anodestrøm som funksjon av gitterspenning i en triode. Arbeidspunkter A, AB und B er vist
+
+En russisk klon av EL84: 6N14P
+
+Pentodesymbol for skjemategning. f = filament = glødetråd
+
+Nixierør, indikatorrør for siffer, desimalpunkt og fortegn. Her bare sifrene 0-9
+
+Denne sendertrioden kan dissipere opptil 500 W varmeeffekt
+Det enkleste radiorøret er dioden. Navnet er gitt av de to tilkoplingene anode og katode. Navnet er sammensatt av de greske ordene di = 'to', og ode (fra odos) som betyr 'vei'. Betegnelsen likeretter for en diode er også i bruk, hovedsakelig for kraftbetraktning, i motsetning til diode for signalbetraktning. Diodens hovedegenskap er at elektronene utelukkende kan bevege seg fra katoden til anoden slik at dioden kan lede strøm i bare én retning. Når geometrien og katodens temperatur er gitt, bestemmes strømmengden utelukkende av spenningen mellom anode og katode.
+
+Elektronstrømmen i røret kan styres ved hjelp av et gitter som settes mellom katoden og anoden. Dette gitteret kalles styregitter. Et slikt radiorør kalles en triode, hvor navnet er gitt av at røret har tre prinsipielle tilkoplinger. En triode kan, sammen med andre komponenter, brukes til å forsterke energien av et signal vesentlig, uten å forvrenge det i noen stor grad. Vitenskapen og håndverket som behandler dette kalles elektronikk. Oppfinnelsen av trioden var banebrytende; før dette hadde energetisk signalforsterkning vært svært begrenset, eksotisk og plundrete.
+
+For å forbedre de elektriske egenskapene til røret i enkle forsterkertrinn ble flere gitre etter hvert innført i røret. Slik oppstod tetroden med to gitre (utviklet av firmaet Siemens, Tyskland i 1. verdenskrig) og senere pentoden med tre gitre (utviklet av hollenderen Bernhard D.H. Tellegen i 1926). Dermed var utviklingen av radiorøret som forsterkende element optimalisert. Frem til oppfinnelsen av transistoren var radiorør enerådende som aktive forsterkerelementer.
